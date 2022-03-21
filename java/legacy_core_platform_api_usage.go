@@ -218,6 +218,7 @@ var legacyCorePlatformApiModules = []string{
 	"WallpaperBackup",
 	"WallpaperBackupAgentTests",
 	"WfdCommon",
+	"KryptonSettings-core",
 }
 
 var legacyCorePlatformApiLookup = make(map[string]struct{})
